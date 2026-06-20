@@ -9,7 +9,7 @@ redirect_from:
 
 I develop MRI and AI solutions for clinical translation, building quantitative neuroimaging biomarkers to better understand neurological and psychiatric disorders — including multiple sclerosis, glioma, psychosis.
 
-Working across 1.5 and 3T platforms, I design studies using fMRI, DTI, and QSM — from acquisition to analysis — and develop interpretable ML models, covering data curation, feature engineering, and predictive modeling using Python, MATLAB, FSL, SPM, and scikit-learn, converting complex imaging data to clinically meaningful insights.
+Working across 1.5T and 3T platforms, I design studies using fMRI, DTI, and QSM—from acquisition to analysis—and develop interpretable machine learning models, including data curation, feature engineering, and predictive modeling using Python (scikit-learn), FSL, and MATLAB (SPM), translating complex imaging data into clinically meaningful insights.
 
 Committed to Open Science and global MRI education in low- and middle-income countries, I co-direct [MRI Together](https://mritogether.esmrmb.org/) and co-lead SWiM and Conexxin through ESMRMB's [CAMERA](https://www.cameramriafrica.org/) — a nonprofit advancing MRI education in low- and middle-income countries. I also serve as a reviewer for *JMRI*, *Radiography Journal*, and *Radiology: Artificial Intelligence*.
 
