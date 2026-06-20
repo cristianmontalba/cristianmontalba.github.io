@@ -11,8 +11,7 @@ I develop MRI and AI solutions for clinical translation, building quantitative n
 
 Working across 1.5 and 3T platforms, I design studies using fMRI, DTI, and QSM — from acquisition to analysis — and develop interpretable ML models, covering data curation, feature engineering, and predictive modeling using Python, MATLAB, FSL, SPM, and scikit-learn, converting complex imaging data to clinically meaningful insights.
 
-Beyond research, I am deeply committed to Open Science and global MRI education. I co-direct the MRI Together [MRI Together](https://mritogether.esmrmb.org/) initiative and co-lead SWiM and Conexxin through ESMRMB's [CAMERA](https://www.cameramriafrica.org/) program — working to make advanced MRI knowledge accessible in low- and middle-income countries, from image acquisition across MR platforms to image processing analysis and design. I also serve as a reviewer for *JMRI*, *Radiography Journal*, and *Radiology: Artificial Intelligence*.
-
+Committed to Open Science and global MRI education in low- and middle-income countries, I co-direct [MRI Together](https://mritogether.esmrmb.org/) and co-lead SWiM and Conexxin through ESMRMB's [CAMERA](https://www.cameramriafrica.org/) — a nonprofit advancing MRI education in low- and middle-income countries. I also serve as a reviewer for *JMRI*, *Radiography Journal*, and *Radiology: Artificial Intelligence*.
 
 ## Education
 
