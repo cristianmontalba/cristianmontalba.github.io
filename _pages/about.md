@@ -15,8 +15,8 @@ Committed to Open Science and global MRI education in low- and middle-income cou
 
 ## Education
 
-- **MSc in Health Sciences Research** — Pontificia Universidad Católica de Chile, 2024–2025
-- **BSc in Medical Technology, Imaging and Medical Physics** — Universidad del Desarrollo, 2009–2013
+- **MSc in Health Sciences Research** — Pontificia Universidad Católica de Chile, Santiago, Chile 2024–2025
+- **BSc in Medical Technology, Imaging and Medical Physics** — Universidad del Desarrollo, Santiago, Chile 2009–2013
 
 ## Selected publications
 
