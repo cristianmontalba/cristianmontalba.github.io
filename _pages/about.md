@@ -7,11 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I develop MRI and AI solutions for clinical translation, building quantitative neuroimaging biomarkers to better understand and diagnose neurological and psychiatric disorders — including multiple sclerosis, glioma, psychosis, and autism.
+I develop MRI and AI solutions for clinical translation, building quantitative neuroimaging biomarkers to better understand neurological and psychiatric disorders — including multiple sclerosis, glioma, psychosis.
 
-My research covers 1.5T and 3T MRI platforms, where I design and lead studies using fMRI, DTI, and QSM, from data acquisition through image processing and analysis. To translate complex imaging data into clinically meaningful insights, I develop interpretable machine learning models, covering data curation, feature engineering, and predictive modeling using Matlab, Python, FSL, SPM, and scikit-learn.
+Working across 1.5 and 3T platforms, I design studies using fMRI, DTI, and QSM — from acquisition to analysis — and develop interpretable ML models, covering data curation, feature engineering, and predictive modeling using Python, MATLAB, FSL, SPM, and scikit-learn, converting complex imaging data to clinically meaningful insights.
 
 Beyond research, I am deeply committed to Open Science and global MRI education. I co-direct the MRI Together [MRI Together](https://mritogether.esmrmb.org/) initiative and co-lead SWiM and Conexxin through ESMRMB's [CAMERA](https://www.cameramriafrica.org/) program — working to make advanced MRI knowledge accessible in low- and middle-income countries, from image acquisition across MR platforms to image processing analysis and design. I also serve as a reviewer for *JMRI*, *Radiography Journal*, and *Radiology: Artificial Intelligence*.
+
 
 ## Education
 
@@ -27,8 +28,6 @@ Beyond research, I am deeply committed to Open Science and global MRI education.
 Franco P, **Montalba C**, et al. Beyond binary classification: a pilot study of imaging-derived glioma severity modeling using T1-weighted and diffusion MRI radiomics. *Magnetic Resonance Materials in Physics, Biology and Medicine*, 2026.
 
 Franco P, **Montalba C**, et al. Interpretable machine learning model for characterizing magnetic susceptibility-based biomarkers in first episode psychosis. Computer Methods and Programs in Biomedicine, 2025. doi:10.1016/j.cmpb.2025.109067
-
-Mumuni AN, Eyre K, **Montalba C**, et al. Scan With Me: A Train-the-Trainer Program to Upskill MRI Personnel in Low- and Middle-Income Countries. Journal of the American College of Radiology, 2024. doi:10.1016/j.jacr.2024.04.026
 
 **Montalba C**, et al. Variability of 4D flow parameters when subjected to changes in MRI acquisition parameters using a realistic thoracic aortic phantom. *Magnetic Resonance in Medicine*, 2017. doi:[10.1002/mrm.26834](https://doi.org/10.1002/mrm.26834)
 
