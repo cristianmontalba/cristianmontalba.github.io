@@ -5,8 +5,6 @@ permalink: /skills/
 author_profile: true
 ---
 
-<div style="text-align: justify;">
-
 **Core Expertise & Technical Stack**
 
 *   **MRI & Pulse Sequence Design**: Protocol coordination across pediatric and adult neuro-populations, balancing advanced 1.5T/3T acquisition with open-source development (Pulseq).
@@ -18,8 +16,6 @@ author_profile: true
 
     *   **Frameworks & Libraries**: Python (Scikit-Learn, Pandas, NumPy, basic PyTorch) and MATLAB.
     *   **Feature Extraction**: High-throughput radiomic profiling and biomarker discovery using PyRadiomics.
-
-<br>
 
 **Global Leadership & Open Science**
 
