@@ -22,6 +22,10 @@ For a complete and up-to-date list of peer-reviewed articles and conference proc
   *MAGMA*, 2026.  
   [doi: 10.1007/s10334-026-01346-7](https://doi.org/10.1007/s10334-026-01346-7)
 
+* Artigas R, Ruiz S, **Montalba C**, *et al*. **Decreased levels of N-Acetylaspartyglutamate, myo-inositol, and syllo-inositol, in cortical brain regions of women exposed to adverse childhood experiences**.  
+  *Magnetic Resonance Imaging*, 2026.  
+  [doi: 10.1016/j.mri.2026.110621](https://doi.org/10.1016/j.mri.2026.110621)  
+
 * Figueroa-Vargas A, Navarrete-Caro S, Cárcamo C, ..., **Montalba C**, ..., Billeke P. **White matter volume and microstructural integrity are associated with fatigue in relapsing multiple sclerosis**.  
   *Scientific Reports*, 2025.  
   [doi: 10.1038/s41598-025-01465-6](https://doi.org/10.1038/s41598-025-01465-6)
