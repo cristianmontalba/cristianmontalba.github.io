@@ -34,8 +34,6 @@ For a complete and up-to-date list of peer-reviewed articles and conference proc
   *Journal of Magnetic Resonance Imaging*, 2024.  
   [doi: 10.1002/jmri.28999](https://doi.org/10.1002/jmri.28999)
 
-<br>
-
 ### Open Science & Global Education
 
 {:.text-justify}
