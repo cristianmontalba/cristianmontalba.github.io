@@ -17,10 +17,10 @@ Beyond core research, I am deeply committed to open science and global education
 
 ### Education
 
-*   **MSc in Health Sciences Research**  
+* **MSc in Health Sciences Research**  
     Pontificia Universidad Católica de Chile, Santiago, Chile — *2024 – 2025*
 
-*   **BSc in Medical Technology (Imaging & Medical Physics)**  
+* **BSc in Medical Technology (Imaging & Medical Physics)**  
     Universidad del Desarrollo, Santiago, Chile — *2009 – 2013*
 
 </div>
