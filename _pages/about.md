@@ -7,32 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-I develop MRI and AI solutions for clinical translation, building quantitative neuroimaging biomarkers to better understand neurological and psychiatric disorders — including multiple sclerosis, glioma, psychosis.
+I am an MRI Researcher and Imaging Specialist at the Biomedical Imaging Center (UC), focused on quantitative neuroimaging and clinical translation. I develop interpretable machine learning pipelines to transform complex imaging data into actionable insights for neurological diseases, such as, Multiple Sclerosis, Gliomas, and Psychosis.
 
-Working across 1.5T and 3T platforms, I design studies using fMRI, DTI, and QSM—from acquisition to analysis—and develop interpretable machine learning models, including data curation, feature engineering, and predictive modeling using Python (scikit-learn), FSL, and MATLAB (SPM), translating complex imaging data into clinically meaningful insights.
+Core Expertise & Technical Stack:
+• MRI & Sequence Design: Clinical and research protocol management (paediatrics and adults), image acquisition, and fMRI paradigm design. Advanced 1.5T/3T processing via FSL/SPM and open-source sequence development with Pulseq.
+• ML & Computer Vision: Data curation, feature engineering, and pattern recognition using Python (Scikit-Learn, Pandas, NumPy, basic PyTorch), PyRadiomics, and MATLAB.
 
-Committed to Open Science and global MRI education in low- and middle-income countries, I co-direct [MRI Together](https://mritogether.esmrmb.org/) and co-lead SWiM and Conexxin through ESMRMB's [CAMERA](https://www.cameramriafrica.org/) — a nonprofit advancing MRI education in low- and middle-income countries. I also serve as a reviewer for *JMRI*, *Radiography Journal*, and *Radiology: Artificial Intelligence*.
+Global Leadership & Open Science:
+• Co-Director at [MRI Together](https://mritogether.esmrmb.org/) & Co-Lead of SWiM / Conexxin under [CAMERA](https://www.cameramriafrica.org/) (ESMRMB), advancing MRI education in LMICs. 
+• Scientific Reviewer for JMRI, Radiography, and Radiology: Artificial Intelligence.
+
+Contact: cristian.montalba@gmail.com
 
 ## Education
 
 - **MSc in Health Sciences Research** — Pontificia Universidad Católica de Chile, Santiago, Chile 2024–2025
 - **BSc in Medical Technology, Imaging and Medical Physics** — Universidad del Desarrollo, Santiago, Chile 2009–2013
-
-## Selected publications
-
-**Montalba C**, et al. Disruption of Superficial White Matter U-fibers Predicts Cognitive Impairment in Multiple Sclerosis: A Pilot Study Using Interpretable Machine Learning and Fractional Anisotropy. *Neuroradiology* 2026. *(under review)*
-
-**Montalba C**, et al. Microstructural changes in subcortical white matter regions and their relationship with PASAT score in multiple sclerosis: a machine learning approach. *Multiple Sclerosis and Related Disorders*, 2026. *(under review)*
-
-Franco P, **Montalba C**, et al. Beyond binary classification: a pilot study of imaging-derived glioma severity modeling using T1-weighted and diffusion MRI radiomics. *Magnetic Resonance Materials in Physics, Biology and Medicine*, 2026.
-
-Franco P, **Montalba C**, et al. Interpretable machine learning model for characterizing magnetic susceptibility-based biomarkers in first episode psychosis. Computer Methods and Programs in Biomedicine, 2025. doi:10.1016/j.cmpb.2025.109067
-
-**Montalba C**, et al. Variability of 4D flow parameters when subjected to changes in MRI acquisition parameters using a realistic thoracic aortic phantom. *Magnetic Resonance in Medicine*, 2017. doi:[10.1002/mrm.26834](https://doi.org/10.1002/mrm.26834)
-
-## Recognition
-
-- **2024–2026** — Three-time ISMRT Award Winner (1st, 2nd & 3rd place), ISMRM Annual Meetings (Singapore, Hawaii, Cape Town)
-- **2025** — Travel Stipend Award, European Society for Magnetic Resonance in Medicine and Biology (ESMRMB), Marseille
-- **2019, 2021, 2023** — E.K. Zavoisky Stipend, ISMRM (Toronto, London, Online)
-- **2019** — 2nd place, Scientific Oral Presentation, Chilean Society of Radiology
