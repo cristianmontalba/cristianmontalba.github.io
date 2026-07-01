@@ -7,19 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an MRI Researcher and Imaging Specialist at the Biomedical Imaging Center (UC), focused on quantitative neuroimaging and clinical translation. I develop interpretable machine learning pipelines to transform complex imaging data into actionable insights for neurological diseases, such as, Multiple Sclerosis, Gliomas, and Psychosis.
+I am an MRI researcher and imaging specialist driven by the use of computational methods to deliver effective solutions for real-world neurological challenges in clinical translation. With a medical imaging and radiographer background, my research interest lies at the intersection of quantitative neuroimaging, interpretable machine learning, and open science, which I have explored through software development and computational neuroimaging analysis. I believe that technical expertise, along with a deep understanding of clinical workflows, is fundamental to driving meaningful progress in complex medical tasks.
 
-**Core Expertise & Technical Stack**:
+I have led and engineered neuroimaging pipelines across topics as diverse as mapping microstructural disruption in Multiple Sclerosis, extracting radiomic features for glioma characterization, and nigrostriatal pathway in Psychosis. One fundamental challenge across these projects, is the "black box" nature of AI models and data variability, which I have addressed through the incorporation of domain-specific neuroanatomical constraints and interpretable machine learning frameworks to ensure predictive models provides reliable insights that clinicians can trust.
 
-- **MRI & Sequence Design**: Clinical and research protocol management (paediatrics and adults), image acquisition, and fMRI paradigm design. Advanced 1.5T/3T processing via FSL/SPM and open-source sequence development with Pulseq.
-- **ML & Computer Vision**: Data curation, feature engineering, and pattern recognition using Python (Scikit-Learn, Pandas, NumPy, basic PyTorch), PyRadiomics, and MATLAB.
-
-**Global Leadership & Open Science**:
-
-- **Co-Director**: [MRI Together](https://mritogether.esmrmb.org/) & Co-Lead of SWiM / Conexxin under [CAMERA](https://www.cameramriafrica.org/) (ESMRMB), advancing MRI education in LMICs. 
-- **Scientific Reviewer**: JMRI, Radiography, and Radiology: Artificial Intelligence.
-
-Contact: cristian.montalba@gmail.com
+Beyond my core research, I am deeply committed to open science and global education. As a co-leader of international initiatives under the ESMRMB, I actively work to democratize MRI expertise and technical access across low- and middle-income countries (LMICs).
 
 ## Education
 
