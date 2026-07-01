@@ -4,7 +4,6 @@ title: "Skills"
 permalink: /skills/
 author_profile: true
 ---
-
 ### Core Expertise & Technical Stack
 
 {:.text-justify}
