@@ -11,7 +11,7 @@ redirect_from:
 
 <div style="text-align: justify;">
 
-<p>I am an MRI researcher and imaging specialist driven by computational methods to deliver effective solutions for neurological challenges in <strong>clinical translation</strong>. With a background in radiography, my research lies at the intersection of <strong>quantitative neuroimaging, interpretable machine learning, and open science</strong>. I believe that bridging technical expertise with a deep understanding of clinical workflows is fundamental to driving meaningful progress in medicine.</p>
+<p>I am an MRI researcher and imaging specialist driven by computational methods to deliver effective solutions for neurological challenges in <strong>clinical translation</strong>. With a background in MRI, my research lies at the intersection of <strong>quantitative neuroimaging, interpretable machine learning, and open science</strong>. I believe that bridging technical expertise with a deep understanding of clinical workflows is fundamental to driving meaningful progress in medicine.</p>
 
 <p>I have engineered advanced neuroimaging pipelines across diverse conditions, including mapping microstructural disruption in <strong>Multiple Sclerosis</strong>, extracting radiomic features for <strong>glioma characterization</strong>, and analyzing the nigrostriatal pathway in <strong>Psychosis</strong>. To address the "black box" nature of AI models, I integrate <strong>domain-specific neuroanatomical constraints</strong> and <strong>interpretable machine learning frameworks</strong>, ensuring our predictive models provide reliable insights that clinicians can trust.</p>
 
