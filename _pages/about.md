@@ -15,8 +15,6 @@ I have led and support both image acquisition strategies and advanced neuroimagi
 
 Beyond core research, I am deeply committed to open science and global education. As a **co-leader of international initiatives under the ESMRMB**, I actively work to democratize MRI expertise and technical access across low- and middle-income countries (LMICs).
 
-<br>
-
 ### Education
 
 *   **MSc in Health Sciences Research**  
