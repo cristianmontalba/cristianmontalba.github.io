@@ -1,10 +1,9 @@
 ---
 layout: single
-title: "Publications"
+title: "Recent Publications"
 permalink: /publications/
 author_profile: true
 ---
-### Recent Publications
 
 {:.text-justify}
 For a complete and up-to-date list of peer-reviewed articles and conference proceedings, please visit my [Google Scholar Profile](https://scholar.google.com/citations?user=LJw53YQAAAAJ&hl=en).
