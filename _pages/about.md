@@ -16,10 +16,10 @@ I have led and supported both image acquisition strategies and advanced neuroima
 {:.text-justify}
 Beyond core research, I am deeply committed to open science and global education. As a **co-leader of international initiatives under the ESMRMB**, I actively work to democratize MRI expertise and technical access across low- and middle-income countries (LMICs).
 
-<br>
-
 ### Education
 
 * **MSc in Health Sciences Research** Pontificia Universidad Católica de Chile, Santiago, Chile — *2024 – 2025*
 
 * **BSc in Medical Technology (Imaging & Medical Physics)** Universidad del Desarrollo, Santiago, Chile — *2009 – 2013*
+
+<br>
