@@ -15,11 +15,8 @@ author_profile: true
     * **Frameworks & Libraries**: Python (Scikit-Learn, Pandas, NumPy, basic PyTorch) and MATLAB.
     * **Feature Extraction**: High-throughput radiomic profiling using PyRadiomics.
 
-<br>
-
 ### Global Leadership & Open Science
 
-{:.text-justify}
 * **International Co-Leadership**: Co-Director of [MRI Together](https://mritogether.esmrmb.org/) and Co-Lead of SWiM/Conexxin under [CAMERA](https://www.cameramriafrica.org/) (ESMRMB) to democratize MRI in LMICs.
 * **Scientific Peer Review**: Invited reviewer for top-tier journals (*JMRI*, *Radiography*, *Radiology: Artificial Intelligence*).
 
