@@ -8,12 +8,12 @@ author_profile: true
 ### Core Expertise & Technical Stack
 
 {:.text-justify}
-* **MRI & Pulse Sequence Design**: Protocol coordination across pediatric/adult neuro-populations and open-source sequence development (Pulseq).
+* **MRI & Pulse Sequence Design**: Protocol coordination for pediatric/adult neurological and psychiatric cohorts, alongside open-source sequence development (Pulseq).
     * **Acquisition & Paradigm**: 1.5T/3T clinical/research setup, fMRI block-design (visual/motor), and resting-state fMRI.
     * **Neuroimaging Processing**: Structural and functional pipelines specializing in **fMRI, DTI, and QSM** via FSL and SPM.
-* **Machine Learning & Radiomics**: End-to-end data curation, pattern recognition, and biomarker discovery for clinical datasets.
+* **Medical AI**: End-to-end data curation, pattern recognition, and biomarker extraction for clinical and research datasets.
     * **Frameworks & Libraries**: Python (Scikit-Learn, Pandas, NumPy, basic PyTorch) and MATLAB.
-    * **Feature Extraction**: High-throughput radiomic profiling using PyRadiomics.
+    * **Methodologies & Modeling**: Applied deep learning (CNNs), high-throughput radiomic profiling (PyRadiomics), and quantitative feature extraction.
 
 ### Global Leadership & Open Science
 
