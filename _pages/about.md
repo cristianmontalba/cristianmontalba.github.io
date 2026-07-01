@@ -2,10 +2,6 @@
 permalink: /
 title: "About me"
 author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
----
 
 I am an MRI Researcher and Imaging Specialist at the Biomedical Imaging Center (UC), focused on quantitative neuroimaging and clinical translation. I develop interpretable machine learning pipelines to transform complex imaging data into actionable insights for neurological diseases, such as, Multiple Sclerosis, Gliomas, and Psychosis.
 
