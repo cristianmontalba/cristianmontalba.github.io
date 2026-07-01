@@ -15,12 +15,12 @@ redirect_from:
 
 <p>Beyond core research, I am deeply committed to open science and global education. As a <strong>co-leader of international initiatives under the ESMRMB</strong>, I actively work to democratize MRI expertise and technical access across low- and middle-income countries (LMICs).</p>
 
-<p> **Education**
+<p> <strong>Education</strong>
 
-<p>*   **MSc in Health Sciences Research**  
+<p> MSc in Health Sciences Research
     Pontificia Universidad Católica de Chile, Santiago, Chile — *2024 – 2025*
 
-<p>*   **BSc in Medical Technology (Imaging & Medical Physics)**  
+<p> BSc in Medical Technology (Imaging & Medical Physics)  
     Universidad del Desarrollo, Santiago, Chile — *2009 – 2013*
 
 </div>
